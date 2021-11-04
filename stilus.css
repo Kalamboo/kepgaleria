@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    text-align: center;
+    font-size: 200%;
+}
+
+main{
+    width: 50%;
+    background-color: white;
+    margin: auto;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
+
+article{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+img{
+    border: 2px solid black;
+}
+
+div{
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+}
+
+button{
+    height: 100%;
+    margin: 0%;
+}
